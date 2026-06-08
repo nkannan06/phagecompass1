@@ -1,0 +1,174 @@
+[
+    {
+        "phage_name": "phiKZ",
+        "accession": "NC_004629",
+        "genome_length": 280334,
+        "cds_count": 369,
+        "anti_defense_systems": [
+            "anti-RM",
+            "anti-CRISPR",
+            "anti-CBASS"
+        ],
+        "cdp_coverage": 0.5,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": true,
+            "anti-CBASS": true,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Supplemented with literature-curated anti-defense genes (Hobbs et al. 2022)."
+    },
+    {
+        "phage_name": "LUZ19",
+        "accession": "NC_010821",
+        "genome_length": 316674,
+        "cds_count": 461,
+        "anti_defense_systems": [
+            "anti-RM",
+            "anti-CBASS"
+        ],
+        "cdp_coverage": 0.33,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": false,
+            "anti-CBASS": true,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Supplemented with literature-curated anti-defense genes (Hobbs et al. 2022)."
+    },
+    {
+        "phage_name": "LUZ24",
+        "accession": "NC_010780",
+        "genome_length": 14070,
+        "cds_count": 13,
+        "anti_defense_systems": [],
+        "cdp_coverage": 0.0,
+        "raw_hits": {
+            "anti-RM": false,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    },
+    {
+        "phage_name": "PAK_P1",
+        "accession": "NC_022746",
+        "genome_length": 42957,
+        "cds_count": 50,
+        "anti_defense_systems": [
+            "anti-RM"
+        ],
+        "cdp_coverage": 0.17,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    },
+    {
+        "phage_name": "LUZ7",
+        "accession": "NC_013691",
+        "genome_length": 74901,
+        "cds_count": 115,
+        "anti_defense_systems": [
+            "anti-RM",
+            "anti-Retron"
+        ],
+        "cdp_coverage": 0.33,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": true,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Supplemented with literature-curated anti-defense genes (Millman et al. 2022)."
+    },
+    {
+        "phage_name": "14-1",
+        "accession": "NC_012418",
+        "genome_length": 43152,
+        "cds_count": 53,
+        "anti_defense_systems": [
+            "anti-RM"
+        ],
+        "cdp_coverage": 0.17,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    },
+    {
+        "phage_name": "LMA2",
+        "accession": "NC_019526",
+        "genome_length": 345809,
+        "cds_count": 534,
+        "anti_defense_systems": [
+            "anti-RM"
+        ],
+        "cdp_coverage": 0.17,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    },
+    {
+        "phage_name": "E79",
+        "accession": "NC_007458",
+        "genome_length": 37253,
+        "cds_count": 53,
+        "anti_defense_systems": [],
+        "cdp_coverage": 0.0,
+        "raw_hits": {
+            "anti-RM": false,
+            "anti-CRISPR": false,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    },
+    {
+        "phage_name": "Ab31",
+        "accession": "NC_027399",
+        "genome_length": 346602,
+        "cds_count": 683,
+        "anti_defense_systems": [
+            "anti-RM",
+            "anti-CRISPR"
+        ],
+        "cdp_coverage": 0.33,
+        "raw_hits": {
+            "anti-RM": true,
+            "anti-CRISPR": true,
+            "anti-CBASS": false,
+            "anti-Thoeris": false,
+            "anti-Retron": false,
+            "anti-Lamassu": false
+        },
+        "annotation_note": "Standard annotation scan."
+    }
+]

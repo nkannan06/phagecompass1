@@ -1,0 +1,1286 @@
+{
+    "PAO1": {
+        "DBS": 53.74,
+        "rankings": [
+            {
+                "phage_name": "LUZ7",
+                "phagecompass_score": 54.25,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "countered",
+                        "counter": "anti-Retron"
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "phiKZ",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ19",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "PAK_P1",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "14-1",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LMA2",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "Ab31",
+                "phagecompass_score": 48.0,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ24",
+                "phagecompass_score": 40.38,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "E79",
+                "phagecompass_score": 40.38,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "RM_type_I",
+                        "potency": 5.86,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "retron_I-B",
+                        "potency": 4.81,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Helicase-DUF2290",
+                        "potency": 2.77,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S39",
+                        "potency": 3.82,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            }
+        ]
+    },
+    "PA7": {
+        "DBS": 67.67,
+        "rankings": [
+            {
+                "phage_name": "phiKZ",
+                "phagecompass_score": 49.5,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "countered",
+                        "counter": "anti-CBASS"
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ19",
+                "phagecompass_score": 49.5,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "countered",
+                        "counter": "anti-CBASS"
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ24",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "PAK_P1",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ7",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "14-1",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "LMA2",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "E79",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "Ab31",
+                "phagecompass_score": 39.23,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cbass_type_III",
+                        "potency": 7.9,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "Lamassu_Family",
+                        "potency": 5.29,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.8,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "Tiamat",
+                        "potency": 3.45,
+                        "status": "no_known_counter",
+                        "counter": null
+                    }
+                ]
+            }
+        ]
+    },
+    "K_pneumoniae": {
+        "DBS": 93.72,
+        "rankings": [
+            {
+                "phage_name": "phiKZ",
+                "phagecompass_score": 59.32,
+                "recommendation": "Moderate viability \u2014 consider as part of cocktail",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "countered",
+                        "counter": "anti-CRISPR"
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "Ab31",
+                "phagecompass_score": 59.32,
+                "recommendation": "Moderate viability \u2014 consider as part of cocktail",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "countered",
+                        "counter": "anti-CRISPR"
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ19",
+                "phagecompass_score": 47.97,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "PAK_P1",
+                "phagecompass_score": 47.97,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ7",
+                "phagecompass_score": 47.97,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "14-1",
+                "phagecompass_score": 47.97,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "LMA2",
+                "phagecompass_score": 47.97,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "countered",
+                        "counter": "anti-RM"
+                    }
+                ]
+            },
+            {
+                "phage_name": "LUZ24",
+                "phagecompass_score": 35.59,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "uncountered",
+                        "counter": null
+                    }
+                ]
+            },
+            {
+                "phage_name": "E79",
+                "phagecompass_score": 35.59,
+                "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+                "system_breakdown": [
+                    {
+                        "system": "cas_type_I-F1",
+                        "potency": 8.73,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "RM_type_I",
+                        "potency": 6.34,
+                        "status": "uncountered",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 3.32,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "SoFic",
+                        "potency": 4.22,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "DMS_other",
+                        "potency": 2.63,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PDC-S06",
+                        "potency": 3.98,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PD-T4-6",
+                        "potency": 3.46,
+                        "status": "no_known_counter",
+                        "counter": null
+                    },
+                    {
+                        "system": "PrrC",
+                        "potency": 3.18,
+                        "status": "uncountered",
+                        "counter": null
+                    }
+                ]
+            }
+        ]
+    }
+}

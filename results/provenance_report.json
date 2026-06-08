@@ -1,0 +1,158 @@
+{
+    "padloc_version": "padloc v2.0.0",
+    "padloc_db_version": "v2.0.0 :: https://github.com/padlocbio/padloc-db/releases/v2.0.0\nv1.4.0 :: https://github.com/padlocbio/padloc-db/releases/v1.4.0\nv1.3.0 :: https://github.com/padlocbio/padloc-db/releases/v1.3.0\nv1.2.0 :: https://github.com/padlocbio/padloc-db/releases/v1.2.0\nv1.1.0 :: https://github.com/padlocbio/padloc-db/releases/v1.1.0\nv1.0.0 :: https://github.com/padlocbio/padloc-db/releases/v1.0.0",
+    "run_date": "2026-06-08",
+    "bacterial_genomes": [
+        {
+            "accession": "AE004091",
+            "title": "Pseudomonas aeruginosa PAO1, complete genome",
+            "organism": "Pseudomonas aeruginosa PAO1",
+            "length": 6264404,
+            "update_date": "2014/01/31"
+        },
+        {
+            "accession": "NC_011770",
+            "title": "Pseudomonas aeruginosa LESB58, complete sequence",
+            "organism": "Pseudomonas aeruginosa LESB58",
+            "length": 6601757,
+            "update_date": "2025/08/27"
+        },
+        {
+            "accession": "CP012001",
+            "title": "Pseudomonas aeruginosa DSM 50071, complete genome",
+            "organism": "Pseudomonas aeruginosa DSM 50071 = NBRC 12689",
+            "length": 6317050,
+            "update_date": "2015/08/27"
+        }
+    ],
+    "phage_panel": [
+        {
+            "name": "phiKZ",
+            "accession": "NC_004629",
+            "title": "Pseudomonas phage phiKZ, complete genome",
+            "organism": "Pseudomonas phage phiKZ",
+            "length": 280334,
+            "update_date": "2023/01/11"
+        },
+        {
+            "name": "LUZ19",
+            "accession": "NC_010821",
+            "title": "Pseudomonas phage 201phi2-1, complete genome",
+            "organism": "Pseudomonas phage 201phi2-1",
+            "length": 316674,
+            "update_date": "2023/01/08"
+        },
+        {
+            "name": "LUZ24",
+            "accession": "NC_010779",
+            "title": "Eremobates cf. palpisetulosus SEM-2008 mitochondrion, complete genome",
+            "organism": "Eremobates cf. palpisetulosus SEM-2008",
+            "length": 15083,
+            "update_date": "2023/04/03"
+        },
+        {
+            "name": "PAK_P1",
+            "accession": "NC_022746",
+            "title": "Pseudomonas phage MPK6, complete genome",
+            "organism": "Pseudomonas phage MPK6",
+            "length": 42957,
+            "update_date": "2023/01/08"
+        },
+        {
+            "name": "LUZ7",
+            "accession": "NC_013691",
+            "title": "Pseudomonas phage LUZ7, complete genome",
+            "organism": "Pseudomonas phage LUZ7",
+            "length": 74901,
+            "update_date": "2023/01/08"
+        },
+        {
+            "name": "phiPA3",
+            "accession": "JN699037",
+            "title": "Norovirus Hu/GII.2/KL109/MY/1978 VP1 gene, complete cds",
+            "organism": "Norovirus Hu/GII.2/KL109/MY/1978",
+            "length": 1629,
+            "update_date": "2013/03/31"
+        },
+        {
+            "name": "14-1",
+            "accession": "NC_014169",
+            "title": "Bifidobacterium longum subsp. longum JDM301, complete sequence",
+            "organism": "Bifidobacterium longum subsp. longum JDM301",
+            "length": 2477838,
+            "update_date": "2026/03/29"
+        },
+        {
+            "name": "LMA2",
+            "accession": "NC_019526",
+            "title": "Enterobacteria phage vB_KleM-RaK2, complete genome",
+            "organism": "Klebsiella phage vB_KleM_RaK2",
+            "length": 345809,
+            "update_date": "2023/01/08"
+        },
+        {
+            "name": "Ab31",
+            "accession": "NC_027399",
+            "title": "Klebsiella phage K64-1 DNA, complete genome",
+            "organism": "Klebsiella phage K64-1",
+            "length": 346602,
+            "update_date": "2023/05/09"
+        }
+    ],
+    "local_file_checks": [
+        {
+            "name": "phiKZ",
+            "ncbi_length": 280334,
+            "local_length": 280334,
+            "mismatch": "OK"
+        },
+        {
+            "name": "LUZ19",
+            "ncbi_length": 316674,
+            "local_length": 316674,
+            "mismatch": "OK"
+        },
+        {
+            "name": "LUZ24",
+            "ncbi_length": 15083,
+            "local_length": 15083,
+            "mismatch": "OK"
+        },
+        {
+            "name": "PAK_P1",
+            "ncbi_length": 42957,
+            "local_length": 42957,
+            "mismatch": "OK"
+        },
+        {
+            "name": "LUZ7",
+            "ncbi_length": 74901,
+            "local_length": 74901,
+            "mismatch": "OK"
+        },
+        {
+            "name": "phiPA3",
+            "ncbi_length": 1629,
+            "local_length": 6517,
+            "mismatch": "Diff: 4888"
+        },
+        {
+            "name": "14-1",
+            "ncbi_length": 2477838,
+            "local_length": 4379918,
+            "mismatch": "Diff: 1902080"
+        },
+        {
+            "name": "LMA2",
+            "ncbi_length": 345809,
+            "local_length": 345809,
+            "mismatch": "OK"
+        },
+        {
+            "name": "Ab31",
+            "ncbi_length": 346602,
+            "local_length": 346602,
+            "mismatch": "OK"
+        }
+    ]
+}

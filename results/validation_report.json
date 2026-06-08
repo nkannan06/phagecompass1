@@ -1,0 +1,105 @@
+{
+    "n_pairs": 10,
+    "accuracy": 0.8,
+    "auc_roc": 0.92,
+    "mcc": 0.65,
+    "threshold": 50.0,
+    "confusion_matrix": {
+        "TP": 3,
+        "TN": 5,
+        "FP": 0,
+        "FN": 2
+    },
+    "pair_results": [
+        {
+            "phage": "phiKZ",
+            "bacteria": "PAO1",
+            "accession": "AE004091",
+            "pc_score": 48.0,
+            "observed": 1,
+            "predicted": 0,
+            "correct": false
+        },
+        {
+            "phage": "phiKZ",
+            "bacteria": "PA7",
+            "accession": "NC_011770",
+            "pc_score": 49.5,
+            "observed": 0,
+            "predicted": 0,
+            "correct": true
+        },
+        {
+            "phage": "LUZ7",
+            "bacteria": "PAO1",
+            "accession": "AE004091",
+            "pc_score": 54.25,
+            "observed": 1,
+            "predicted": 1,
+            "correct": true
+        },
+        {
+            "phage": "LUZ7",
+            "bacteria": "PA7",
+            "accession": "NC_011770",
+            "pc_score": 39.23,
+            "observed": 0,
+            "predicted": 0,
+            "correct": true
+        },
+        {
+            "phage": "LUZ24",
+            "bacteria": "PAO1",
+            "accession": "AE004091",
+            "pc_score": 40.38,
+            "observed": 0,
+            "predicted": 0,
+            "correct": true
+        },
+        {
+            "phage": "PAK_P1",
+            "bacteria": "PAO1",
+            "accession": "AE004091",
+            "pc_score": 48.0,
+            "observed": 1,
+            "predicted": 0,
+            "correct": false
+        },
+        {
+            "phage": "PAK_P1",
+            "bacteria": "PA7",
+            "accession": "NC_011770",
+            "pc_score": 39.23,
+            "observed": 0,
+            "predicted": 0,
+            "correct": true
+        },
+        {
+            "phage": "phiKZ",
+            "bacteria": "Kpn",
+            "accession": "CP012001",
+            "pc_score": 59.32,
+            "observed": 1,
+            "predicted": 1,
+            "correct": true
+        },
+        {
+            "phage": "LUZ24",
+            "bacteria": "Kpn",
+            "accession": "CP012001",
+            "pc_score": 35.59,
+            "observed": 0,
+            "predicted": 0,
+            "correct": true
+        },
+        {
+            "phage": "Ab31",
+            "bacteria": "Kpn",
+            "accession": "CP012001",
+            "pc_score": 59.32,
+            "observed": 1,
+            "predicted": 1,
+            "correct": true
+        }
+    ]
+}

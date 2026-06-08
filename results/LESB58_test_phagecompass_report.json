@@ -1,0 +1,246 @@
+{
+    "query_accession": "NC_009085",
+    "query_name": "LESB58_test",
+    "run_date": "2026-06-08",
+    "padloc_version": "padloc v2.0.0",
+    "DBS": 34.03,
+    "dominant_defense_systems": [
+        "thoeris_other",
+        "RosmerTA",
+        "PDC-S26"
+    ],
+    "system_count": 3,
+    "phage_rankings": [
+        {
+            "phage_name": "phiKZ",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "LUZ19",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "LUZ24",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "PAK_P1",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "LUZ7",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "14-1",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "LMA2",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "E79",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        },
+        {
+            "phage_name": "Ab31",
+            "phagecompass_score": 44.54,
+            "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+            "system_breakdown": [
+                {
+                    "system": "thoeris_other",
+                    "potency": 6.54,
+                    "status": "uncountered",
+                    "counter": null
+                },
+                {
+                    "system": "RosmerTA",
+                    "potency": 3.32,
+                    "status": "no_known_counter",
+                    "counter": null
+                },
+                {
+                    "system": "PDC-S26",
+                    "potency": 3.97,
+                    "status": "no_known_counter",
+                    "counter": null
+                }
+            ]
+        }
+    ],
+    "top_recommendation": {
+        "phage": "phiKZ",
+        "score": 44.54,
+        "recommendation": "Low viability \u2014 resistance likely, use only if no better option",
+        "countered_systems": []
+    }
+}
