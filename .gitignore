@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+.env
+data/genomes/
+data/phage_panel/
+data/padloc_output/
+*.fasta
+*.gb
+*.domtblout
+*.faa
+*.gff
