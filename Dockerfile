@@ -1,15 +1,19 @@
-FROM condaforge/miniforge3:23.3.1-1
+FROM ubuntu:22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
 
 WORKDIR /app
 
-RUN conda install -y -c conda-forge -c bioconda \
-    python=3.11 \
-    padloc=2.0.0 \
-    r-base=4.3.1 && \
-    conda clean -afy
+RUN apt-get update && apt-get install -y \
+    wget curl python3.11 python3-pip \
+    r-base r-base-dev \
+    hmmer prodigal && \
+    apt-get clean
+
+RUN pip3 install padloc
 
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip3 install -r requirements.txt
 
 COPY . .
 
@@ -21,5 +25,5 @@ RUN padloc --db-update
 
 EXPOSE 8000
 
-CMD ["python", "-m", "uvicorn", "app:app", \
+CMD ["python3", "-m", "uvicorn", "app:app", \
      "--host", "0.0.0.0", "--port", "8000"]
