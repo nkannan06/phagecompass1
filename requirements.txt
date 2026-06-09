@@ -1,0 +1,9 @@
+biopython
+pandas
+requests
+rich
+fastapi
+uvicorn[standard]
+scikit-learn
+matplotlib
+pydantic
