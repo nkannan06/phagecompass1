@@ -1,9 +1,11 @@
-FROM condaforge/miniforge3:latest
+FROM condaforge/miniforge3:23.3.1-1
 
 WORKDIR /app
 
 RUN conda install -y -c conda-forge -c bioconda \
-    padloc python=3.11 && \
+    python=3.11 \
+    padloc=2.0.0 \
+    r-base=4.3.1 && \
     conda clean -afy
 
 COPY requirements.txt .
